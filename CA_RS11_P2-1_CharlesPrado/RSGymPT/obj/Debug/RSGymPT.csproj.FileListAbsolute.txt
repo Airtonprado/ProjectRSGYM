@@ -1,0 +1,10 @@
+C:\RS11\CA_2024.04_RS11_A02_OOP\A02_C02_CSharp_F\CA_RS11_P2-1_CharlesPrado\RSGymPT\obj\Debug\RSGymPT.csproj.AssemblyReference.cache
+C:\RS11\CA_2024.04_RS11_A02_OOP\A02_C02_CSharp_F\CA_RS11_P2-1_CharlesPrado\RSGymPT\obj\Debug\RSGymPT.csproj.CoreCompileInputs.cache
+C:\RS11\CA_2024.04_RS11_A02_OOP\A02_C02_CSharp_F\CA_RS11_P2-1_CharlesPrado\RSGymPT\bin\Debug\RSGymPT.exe.config
+C:\RS11\CA_2024.04_RS11_A02_OOP\A02_C02_CSharp_F\CA_RS11_P2-1_CharlesPrado\RSGymPT\bin\Debug\RSGymPT.exe
+C:\RS11\CA_2024.04_RS11_A02_OOP\A02_C02_CSharp_F\CA_RS11_P2-1_CharlesPrado\RSGymPT\bin\Debug\RSGymPT.pdb
+C:\RS11\CA_2024.04_RS11_A02_OOP\A02_C02_CSharp_F\CA_RS11_P2-1_CharlesPrado\RSGymPT\bin\Debug\D00_Utility.dll
+C:\RS11\CA_2024.04_RS11_A02_OOP\A02_C02_CSharp_F\CA_RS11_P2-1_CharlesPrado\RSGymPT\bin\Debug\D00_Utility.pdb
+C:\RS11\CA_2024.04_RS11_A02_OOP\A02_C02_CSharp_F\CA_RS11_P2-1_CharlesPrado\RSGymPT\obj\Debug\RSGymPT.csproj.Up2Date
+C:\RS11\CA_2024.04_RS11_A02_OOP\A02_C02_CSharp_F\CA_RS11_P2-1_CharlesPrado\RSGymPT\obj\Debug\RSGymPT.exe
+C:\RS11\CA_2024.04_RS11_A02_OOP\A02_C02_CSharp_F\CA_RS11_P2-1_CharlesPrado\RSGymPT\obj\Debug\RSGymPT.pdb
